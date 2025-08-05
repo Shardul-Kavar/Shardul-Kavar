@@ -1,4 +1,4 @@
-# 💫 About <a href="https://shardul-kavar.netlify.app/" target="_blank" rel="noopener noreferrer">Me</a>:
+# 💫 About <a href="https://shardul-patel.netlify.app/" target="_blank" rel="noopener noreferrer">Me</a>:
 I'm currently working on a fintech project with a foreign client.<br>I'm looking to collaborate on a freelance project related to fintech or AI-powered solutions.<br>I'm seeking assistance in finding a role at a passionate organization.<br>I'm currently learning Python.<br>I enjoy solving Sudoku (of any kind) and playing chess.
 
 
